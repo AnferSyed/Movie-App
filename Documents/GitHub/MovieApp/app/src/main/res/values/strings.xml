@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="title_movie_details">Movie Details</string>
+    <string name="title_dialog_year_picker">Pick Year to Filter</string>
+    <string name="cancel">Cancel</string>
+    <string name="apply_filter">Apply Filter</string>
+</resources>
